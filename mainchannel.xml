@@ -1,7 +1,7 @@
 
 
 <item>
-<title>Awan Station - Update 8th Feb 2014</title>
+<title>Awan Station Bookmarks - Update 10th Feb 2014</title>
 <link>http://</link>
 
 <item>
@@ -14,12 +14,12 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>01. Cartoon Network</title>
+<title>Cartoon Network</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv031&amp;q=high</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png</thumbnail>
  
 <item>
-<title>02. Disney Channel</title>
+<title>Disney Channel</title>
 <link>http://m3.megafun.vn/live.vs?c=vstv032&amp;q=high</link>
 <thumbnail></thumbnail>
  
@@ -29,25 +29,85 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>01. Chelsea TV</title>
-<link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</link>
-<thumbnail></thumbnail>
+<title>BT Sport 1</title>
+<link>rtmpe://watch.playfooty.tv/live playpath=bt1desii swfUrl=http://www.playfooty.tv/play/player/player.swf live=1moc pageUrl=http://www.playfooty.tv/</link>
+<thumbnail>http://3.bp.blogspot.com/-d_Io27XWZ_Q/UnAvqq_sBtI/AAAAAAAAAGI/usexmjcZBMw/s1600/bt-sport-1-logo-136381974803413002.gif</thumbnail>
 </item>
 
 <item>
-<title>02. RedBull TV</title>
+<title>BT Sport 2</title>
+<link>rtmpe://93.120.27.86/live/btdesi2 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=hqsport04&vw=600&vh=400</link>
+<thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p153081.png</thumbnail>
+</item>
+
+<item>
+<title>Chelsea TV</title>
+<link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</link>
+<thumbnail>http://img707.imageshack.us/img707/1757/chelseatv.png</thumbnail>
+</item>
+
+<item>
+<title>ESPN</title>
+<link>rtmp://46.246.29.159:1935/stream playpath=546yrgv.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php live=1</link>
+<thumbnail>http://www.bbeinc.com/bbe_site/profile/images/client_logos/espn.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fox Sport</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv042&amp;q=high</link>
+<thumbnail>http://4.bp.blogspot.com/-Zl48YHsUU3g/UhO71whueQI/AAAAAAAASZU/sbBM3RqAeog/s1600/images-201240921481.jpeg</thumbnail>
+
+<item>
+<title>Premier Sport</title>
+<link>http://50.7.212.138:1000/udp/239.10.10.8:13713</link>
+<thumbnail>http://media15.tv/img/client-premier-sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>RedBull TV</title>
 <link>http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8</link>
 <thumbnail>http://www.redbull.com/cs/RedBull/RBImages/000/000/816/764/photo470x264/redbulltv.jpg</thumbnail>
 
 <item>
-<title>03. Star Sport</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
-<thumbnail></thumbnail>
+<title>TV3 Sport 2</title>
+<link>http://50.7.212.138:1000/udp/239.10.10.10:13713</link>
+<thumbnail>http://www.doa.dk/images/tv3%20sport%202.jpg</thumbnail>
+</item>
 
 <item>
-<title>04. Fox Sport</title>
-<link>http://m24.megafun.vn/live.vs?c=vstv042&amp;q=high</link>
-<thumbnail></thumbnail>
+<title>Sky Sport 1</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23697 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://3.bp.blogspot.com/-frEGd7eDz7U/UX5wKvMo9NI/AAAAAAAAGc8/CT4I3qURCW0/s320/images%2B(3).jpg</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 2</title>
+<link>rtmp://37.220.36.68:443/liverepeater/33698 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://1.bp.blogspot.com/-Q5tFvdCIzmE/UYKSiyEMjzI/AAAAAAAAAeI/d42H5zU8pmM/s320/1110.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport 3</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23699 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://www.liverealsport.com/wp-content/uploads/2013/12/sky-sports-3-hd-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sport 3 (Backup)</title>
+<link>http://50.7.212.138:1000/udp/239.10.10.6:13713</link>
+<thumbnail>http://www.liverealsport.com/wp-content/uploads/2013/12/sky-sports-3-hd-logo.png</thumbnail>
+</item>
+
+<item>
+<title>Sky Sport News</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23701 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2008/08/sky-sports-news.jpg</thumbnail>
+</item>
+
+<item>
+<title>Star Sport</title>
+<link>http://m24.megafun.vn/live.vs?c=vstv033&amp;q=high</link>
+<thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/Star_Sport_tv.jpg</thumbnail>
 
 <item>
 <title>((( Movie )))</title>
@@ -55,52 +115,52 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>01. HBO</title>
+<title>HBO</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv036&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>02. Cinemax</title>
+<title>Cinemax</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv037&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>03. Star Movies</title>
+<title>Star Movies</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>Documentary</title>
+<title>((( Documentary )))</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>01. Animal Planet</title>
+<title>Animal Planet</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv078&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>02. Discovery Channel</title>
+<title>Discovery Channel</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
 <thumbnail></thumbnail>
  
 <item>
-<title>((( TV Series )))</title>
+<title>((( TV Show )))</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>01. AXN</title>
+<title>AXN</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv077&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>02. TLC</title>
+<title>TLC</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv084&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>03. Star World</title>
+<title>Star World</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv039&amp;q=high</link>
 <thumbnail></thumbnail>
 
@@ -113,6 +173,12 @@
 <title>01. ALJAZEERA</title>
 <link>http://hd2.lsops.net/live/aljazeer_en_hls.smil/playlist.m3u8</link>
 <thumbnail>https://www.comm.lsa.umich.edu/blog/wp-content/uploads/2011/03/aljazeera_logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>BBC News</title>
+<link>http://ca-edge-8.cdn2.streamago.tv:80/streamagoedge/1916/809/anjalo_bbc.m3u8</link>
+<thumbnail></thumbnail>
 </item>
 
 <item>
@@ -157,29 +223,29 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>01. Channel V</title>
+<title>Channel V</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv043&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>02. MTV Vietnam</title>
+<title>MTV Vietnam</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv040&amp;q=high</link>
 <thumbnail></thumbnail>
 
 <item>
-<title>03. Vevo HD</title>
+<title>Vevo HD</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>04. Vevo HD 2</title>
+<title>Vevo HD 2</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>05. Vevo HD 3</title>
+<title>Vevo HD 3</title>
 <link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
 <thumbnail></thumbnail>
 </item>
