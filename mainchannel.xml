@@ -168,12 +168,6 @@
 
 <item>
 <title>BT Sport 1</title>
-<link>http://80.7.137.85:8001/1:0:1:C4BD:819:2:11A0000:0:0:0: </link>
-<thumbnail>http://images4.wikia.nocookie.net/logopedia/images/thumb/6/68/BT_Sport_1_(pre-launch).svg/500px-BT_Sport_1_(pre-launch).svg.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 1 (Backup)</title>
 <link>rtmpe://play.finecast.tv/live/hqbt1 pageUrl=http://www.finecast.tv/</link>
 <thumbnail>http://images4.wikia.nocookie.net/logopedia/images/thumb/6/68/BT_Sport_1_(pre-launch).svg/500px-BT_Sport_1_(pre-launch).svg.png</thumbnail>
 </item>
