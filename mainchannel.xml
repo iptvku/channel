@@ -1,7 +1,7 @@
 
 
 <item>
-<title>Awan Station Bookmarks - Update 16th Feb 2014</title>
+<title>Awan Station Bookmarks - Update 17th Feb 2014</title>
 <link>http://</link>
 
 <item>
@@ -394,3 +394,74 @@
 <thumbnail>http://www.frocus.net/images/logotv/original/sun-ktv.gif</thumbnail>
 </item>
  
+ <item>
+<title>(((((((((( Indonesia Channel ))))))))))</title>
+<link>http://</link>
+<thumbnail>http://indonesia-channel.tv/wp-content/uploads/2013/06/logoich.png</thumbnail>
+</item>
+
+<item>
+<title>RCTI</title>
+<link>http://edge.okeinfo.net:1935/live/mncoke1_512.stream/playlist.m3u8</link>
+<thumbnail>http://cdn.klimg.com/kapanlagi.com/p/headline/476x238/0000358242.jpg</thumbnail>
+</item>
+
+<item>
+<title>Trans TV</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/transtv2/playlist.m3u8</link>
+<thumbnail>http://www.thejobsvacancy.com/wp-content/uploads/2013/01/trans-tv.png</thumbnail>
+</item>
+
+<item>
+<title>Trans 7</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/trans72/playlist.m3u8</link>
+<thumbnail>http://cdn.kaskus.com/images/2013/12/18/6217018_20131218025142.jpg</thumbnail>
+</item>
+
+<item>
+<title>Indosiar</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/indosiar2/playlist.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-ESOF2X3Wshw/ULBHYxSSKZI/AAAAAAAAAbA/tCiu-pajRww/s320/INDOSIAR_Logo.png</thumbnail>
+</item>
+
+<item>
+<title>TV One</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/tvone2/playlist.m3u8</link>
+<thumbnail>http://cdn7.staztic.com/app/a/2529/2529351/indonesia-tv-one-live-5-0-s-307x512.jpg</thumbnail>
+</item>
+
+<item>
+<title>Daai TV</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/daaitv2/playlist.m3u8</link>
+<thumbnail>https://www.mymax3.net/images/channel/DAAITV.png</thumbnail>
+</item>
+
+<item>
+<title>Metro TV</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/metrotv2/playlist.m3u8</link>
+<thumbnail>http://cdn9.staztic.com/app/a/2515/2515077/metro-tv-news-live-indonesia-5-1-s-307x512.jpg</thumbnail>
+</item>
+
+<item>
+<title>ANTV</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/antv2/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-eUqxExUk6UE/ULf5nGMfSYI/AAAAAAAABiA/yYkpwD2xGnE/s1600/antv_isl.jpg</thumbnail>
+</item>
+
+<item>
+<title>Space Toon</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/spacetoon2/playlist.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-jUsCG2Bl4UY/T3tVos2T-tI/AAAAAAAAAPg/596ZDlh8l0Q/s1600/Logo-Spacetoon-tv.png</thumbnail>
+</item>
+
+<item>
+<title>Global TV</title>
+<link>http://cdn.mivo.tv:1935/mivotvjkt/globaltv2/playlist.m3u8</link>
+<thumbnail>http://user.photos.s3.amazonaws.com/user_38589.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kompas TV</title>
+<link>rtmp://202.137.11.52/jakarta/offair.sdp</link>
+<thumbnail>http://promo.kompas.tv/newlive/pic/live.jpg</thumbnail>
+</item>
