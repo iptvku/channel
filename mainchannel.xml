@@ -150,7 +150,13 @@
 
 <item>
 <title>Astro Supersport 2</title>
-<link>rtmp://27.254.84.3:1935/live/uiciyd.stream </link>
+<link>rtmp://27.254.84.3:1935/live/uiciyd.stream</link>
+<thumbnail>http://1.bp.blogspot.com/-U5_QVKSr760/USUchU83IGI/AAAAAAAADaw/OGuoH0BJnv8/s1600/ASTRO%2BSUPERSPORT%2BONLINE%2BLIVE%2BSTREAMING.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Supersport 2 (Backup)</title>
+<link>rtmp://27.254.84.3:1935/live/tttyud.stream</link>
 <thumbnail>http://1.bp.blogspot.com/-U5_QVKSr760/USUchU83IGI/AAAAAAAADaw/OGuoH0BJnv8/s1600/ASTRO%2BSUPERSPORT%2BONLINE%2BLIVE%2BSTREAMING.jpg</thumbnail>
 </item>
 
