@@ -149,39 +149,9 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Astro Supersport 2</title>
-<link>rtmp://27.254.84.3:1935/live/uiciyd.stream</link>
-<thumbnail>http://1.bp.blogspot.com/-U5_QVKSr760/USUchU83IGI/AAAAAAAADaw/OGuoH0BJnv8/s1600/ASTRO%2BSUPERSPORT%2BONLINE%2BLIVE%2BSTREAMING.jpg</thumbnail>
-</item>
-
-<item>
-<title>Astro Supersport 2 (Backup)</title>
-<link>rtmp://27.254.84.3:1935/live/tttyud.stream</link>
-<thumbnail>http://1.bp.blogspot.com/-U5_QVKSr760/USUchU83IGI/AAAAAAAADaw/OGuoH0BJnv8/s1600/ASTRO%2BSUPERSPORT%2BONLINE%2BLIVE%2BSTREAMING.jpg</thumbnail>
-</item>
-
-<item>
 <title>Astro Supersport 3</title>
 <link>rtmp://27.254.84.3:1935/live/47c85d.stream</link>
 <thumbnail>http://3.bp.blogspot.com/-SKe9PyBHnNo/Udp70ZYmzpI/AAAAAAAAF-I/luZBzz-8LUM/s320/astro-supersport3.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 1</title>
-<link>rtmpe://play.finecast.tv/live/hqbt1 pageUrl=http://www.finecast.tv/</link>
-<thumbnail>http://images4.wikia.nocookie.net/logopedia/images/thumb/6/68/BT_Sport_1_(pre-launch).svg/500px-BT_Sport_1_(pre-launch).svg.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2</title>
-<link>rtmpe://93.120.27.86/live/btdesi2 swfUrl=http://www.dcast.tv/player/player.swf live=1 pageUrl=http://www.dcast.tv/embed.php?u=hqsport04&vw=600&vh=400</link>
-<thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p153081.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2 (Backup)</title>
-<link>rtmpe://play.finecast.tv/live/hqbt2 pageUrl=http://www.finecast.tv/ </link>
-<thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p153081.png</thumbnail>
 </item>
 
 <item>
