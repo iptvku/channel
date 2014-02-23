@@ -1,7 +1,7 @@
 
 
 <item>
-<title>Awan Station Bookmarks - Update 23rd Feb 2014</title>
+<title>Awan Station Bookmarks - Update 19th Feb 2014</title>
 <link>http://</link>
 
 <item>
@@ -9,7 +9,7 @@
 <link>http://</link>
 
 <item>
-<title>(((((((((( ISLAM CHANNEL ))))))))))</title>
+<title>(((((((((( Islam Channel ))))))))))</title>
 <link>rtmp://</link>
 <thumbnail>https://lh4.googleusercontent.com/-i8Ju5GCD0xo/UtuyqhrSfpI/AAAAAAAAAGM/XXSxYPzX56Q/s288/0c28b1b8.jpg</thumbnail>
 
@@ -44,7 +44,7 @@
 </item>
 
 <item>
-<title>(((((((((( KIDS EDUTAINMENT ))))))))))</title>
+<title>(((((((((( Kids Edutainment ))))))))))</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
@@ -59,7 +59,7 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/1/15/DisneyChannel2010.png</thumbnail>
  
  <item>
-<title>(((((((((( MOVIE BOXOFFICE ))))))))))</title>
+<title>(((((((((( Movie ))))))))))</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
@@ -79,7 +79,7 @@
 <thumbnail>http://static2.wikia.nocookie.net/__cb20110928222637/logopedia/images/5/5a/Star_Movies.png</thumbnail>
  
 <item>
-<title>(((((((((( DOCUMENTARY ))))))))))</title>
+<title>(((((((((( Documentary ))))))))))</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
@@ -122,28 +122,9 @@
 <link>rtsp://178.21.120.198:1936/live3/discoveryworld_low</link>
 <thumbnail>http://www.tvsa.co.za/blogimages/news_discovery_world_large.jpg</thumbnail>
 </item>
-
-<item>
-<title>National Geographic</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.127:3001</link>
-<thumbnail>http://media.10news.com/photo/2012/10/27/national_geographic_logo_1351375624184_318407_ver1.0_320_240.jpg</thumbnail>
-</item>
-
-<item>
-<title>National Geo Wild</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.128:3001</link>
-<thumbnail>http://www.africa-media.org/wp-content/uploads/2012/09/national_geographic_logo27k-e1348604054901.jpg</thumbnail>
-</item>
-
-<item>
-<title>History</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.129:3001</link>
-<thumbnail>http://www.jenniferboylan.net/wp-content/uploads/2009/12/HistoryChannelLogo.gif</thumbnail>
-</item>
-
  
 <item>
-<title>(((((((((( TV SHOW ))))))))))</title>
+<title>(((((((((( TV Show ))))))))))</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
@@ -151,13 +132,6 @@
 <title>AXN</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv077&amp;q=high</link>
 <thumbnail>http://karaminholas.zip.net/images/AxN-CanaldeTv-sony-gringos.jpg</thumbnail>
-</item>
-
-<item>
-<title>Central Comedy</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.146:3001</link>
-<thumbnail>http://www.midstatetv.com/images/new%20set/comedy.jpg</thumbnail>
-</item>
 
 <item>
 <title>TLC</title>
@@ -170,15 +144,9 @@
 <thumbnail>https://woome.mobi/images/logos/sw.png</thumbnail>
 
 <item>
-<title>(((((((((( SPORT ))))))))))</title>
+<title>(((((((((( Sport ))))))))))</title>
 <link>http://</link>
-<thumbnail>http://warwicksport.warwick.ac.uk/pageassets/clubs/sports.jpg</thumbnail>
-
-<item>
-<title>Astro Supersport 2</title>
-<link>rtmp://27.254.84.3:1935/live/uiciyd.stream</link>
-<thumbnail>http://1.bp.blogspot.com/_Qg6J04XZhR4/SwSWVYbJbSI/AAAAAAAAKaU/tWlyGSLweWo/s400/supersport2_rev.jpg</thumbnail>
-</item>
+<thumbnail></thumbnail>
 
 <item>
 <title>Astro Supersport 3</title>
@@ -187,27 +155,9 @@
 </item>
 
 <item>
-<title>BT Sport 1</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.227:3001</link>
-<thumbnail>http://images4.wikia.nocookie.net/logopedia/images/thumb/6/68/BT_Sport_1_(pre-launch).svg/500px-BT_Sport_1_(pre-launch).svg.png</thumbnail>
-</item>
-
-<item>
-<title>BT Sport 2</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.228:3001</link>
-<thumbnail>http://images2.wikia.nocookie.net/logopedia/images/thumb/2/2c/BT_Sport_2_(pre-launch).svg/500px-BT_Sport_2_(pre-launch).svg.png</thumbnail>
-</item>
-
-<item>
 <title>Chelsea TV</title>
 <link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=10</link>
 <thumbnail>http://img707.imageshack.us/img707/1757/chelseatv.png</thumbnail>
-</item>
-
-<item>
-<title>Eurosport</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.117:3001</link>
-<thumbnail>http://www.leedstrinity.ac.uk/departments/cfj/ug/news/publishingimages/eurosport%20better.jpg</thumbnail>
 </item>
 
 <item>
@@ -228,39 +178,27 @@
 </item>
 
 <item>
-<title>Sky sport 1</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.111:3001</link>
-<thumbnail>http://4.bp.blogspot.com/-f7wXAT-kkE0/Tt4cKnXtZJI/AAAAAAAAA3M/cwTbXOR4iso/s400/sky_sports1.png</thumbnail>
-</item> 
-
-<item>
-<title>Sky sport 2</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.135:3001</link>
-<thumbnail>http://4.bp.blogspot.com/-F4OA5aX1MaA/TrF4yna-9KI/AAAAAAAAAw8/zzKwjCoAV6A/s400/Sky_Sports_2_2010.jpg</thumbnail>
+<title>Sky Sport 1</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23697 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://3.bp.blogspot.com/-frEGd7eDz7U/UX5wKvMo9NI/AAAAAAAAGc8/CT4I3qURCW0/s320/images%2B(3).jpg</thumbnail>
 </item>
 
 <item>
-<title>Sky sport 3</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.142:3001</link>
-<thumbnail>http://3.bp.blogspot.com/-amnWu-3Nh-E/T5wOyAscakI/AAAAAAAAAgE/a4Ip3ZPGSyU/s1600/sky_sport_3.jpg</thumbnail>
+<title>Sky Sport 2</title>
+<link>rtmp://37.220.36.68:443/liverepeater/33698 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://1.bp.blogspot.com/-Q5tFvdCIzmE/UYKSiyEMjzI/AAAAAAAAAeI/d42H5zU8pmM/s320/1110.png</thumbnail>
 </item>
 
 <item>
-<title>Sky sport 4</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.144:3001</link>
-<thumbnail>http://1.bp.blogspot.com/-CXRm7MHnAnc/T-k-ccdoSrI/AAAAAAAAASg/v3vVe_deZ9k/s1600/Letotv-skysport4.jpeg</thumbnail>
+<title>Sky Sport 3</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23699 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://www.liverealsport.com/wp-content/uploads/2013/12/sky-sports-3-hd-logo.png</thumbnail>
 </item>
 
 <item>
-<title>Sky sport F1</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.143:3001</link>
-<thumbnail>http://helpforum.sky.com/t5/image/serverpage/image-id/8313i4DCB4C4C8272C563/image-size/medium?v=mpbl-1&px=-1</thumbnail>
-</item>
-
-<item>
-<title>Sky sport News</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.145:3001</link>
-<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
+<title>Sky Sport News</title>
+<link>rtmp://37.220.36.70:443/liverepeater/23701 swfurl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf live=1 pageurl=http://1cdn.filotv.pw/ss1.html token=#atd%#$ZH</link>
+<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2008/08/sky-sports-news.jpg</thumbnail>
 </item>
 
 <item>
@@ -269,22 +207,15 @@
 <thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/Star_Sport_tv.jpg</thumbnail>
 
 <item>
-<title>Viasat 3 Sport 1</title>
-<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e711_wcif.sdp/e711_wcif.sdp-mr2548k.m3u8</link>
-<thumbnail>http://www.dblux.dk/media/13195/tv3sport1_big.png</thumbnail>
-</item>
-
-<item>
-<title>Viasat 3 Sport 2</title>
-<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e801_wcif.sdp/e801_wcif.sdp-mr2548k.m3u8</link>
-<thumbnail>http://static.timefor.tv/imgs/epg/logos/tv3sport2_big.png</thumbnail>
-</item>
+<title>Star Sport (Backup)</title>
+<link>rtmp://27.254.84.3:1935/live/gthhyd.stream</link>
+<thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/Star_Sport_tv.jpg</thumbnail>
 
 
 <item>
 <title>(((((((((( MTV ))))))))))</title>
 <link>http://</link>
-<thumbnail>http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/82/d1/82d177456f84cba6502dc44e9bd7a3c6.jpg?itok=S4YuwnDJ</thumbnail>
+<thumbnail></thumbnail>
 
 <item>
 <title>Channel V</title>
@@ -368,7 +299,7 @@
 </item>
  
 <item>
-<title>(((((((((( BOLLYWOOD CHANNEL ))))))))))</title>
+<title>(((((((((( Bollywood Channel ))))))))))</title>
 <link>rtmp://</link>
 <thumbnail>http://blogs.thenews.com.pk/blogs/wp-content/uploads/2012/01/Bollywood.jpg</thumbnail>
 
@@ -434,18 +365,6 @@
 </item>
 
 <item>
-<title>RCTI</title>
-<link>http://edge.okeinfo.net:1935/live/mncoke1_512.stream/playlist.m3u8</link>
-<thumbnail>http://1.bp.blogspot.com/-5Yr-PVeFZQc/USG4qB6PYrI/AAAAAAAAAjI/CO9gBKqS0EM/s1600/rcti-tv-online.jpg</thumbnail>
-</item>
-
-<item>
-<title>SCTV</title>
-<link>http://cdn.mivo.tv:1935/mivotvjkt/sctv2/playlist.m3u8</link>
-<thumbnail>http://i.brta.in/images/2013-04/e6654c92b55e05292e8353cf7e78f19e.jpg</thumbnail>
-</item>
-
-<item>
 <title>Trans TV</title>
 <link>http://cdn.mivo.tv:1935/mivotvjkt/transtv2/playlist.m3u8</link>
 <thumbnail>http://www.thejobsvacancy.com/wp-content/uploads/2013/01/trans-tv.png</thumbnail>
@@ -497,58 +416,4 @@
 <title>Kompas TV</title>
 <link>rtmp://202.137.11.52/jakarta/offair.sdp</link>
 <thumbnail>http://promo.kompas.tv/newlive/pic/live.jpg</thumbnail>
-</item>
-
-<item>
-<title>(((((((((( UNITED KINGDOM CHANNEL ))))))))))</title>
-<link>http://</link>
-<thumbnail>http://l3.yimg.com/bt/api/res/1.2/XQo9t5na0WVp0bNGiOMWzQ--/YXBwaWQ9eW5ld3M7cT04NTt3PTQ1MA--/http://media.zenfs.com/vi-VN/News/Vef.vn/6_1364557538.jpg</thumbnail>
-</item>
-
-<item>
-<title>E4</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.137:3001</link>
-<thumbnail>http://www.editrooms.co.uk/wp-content/uploads/2013/04/vMhEANTbB4KwfawEi5YXx.jpg</thumbnail>
-</item>
-
-<item>
-<title>iTV</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.79:3001</link>
-<thumbnail>http://www.thebritishblacklist.com/wp-content/uploads/2014/02/itv.jpg</thumbnail>
-</item>
-
-<item>
-<title>iTV 2</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.80:3001</link>
-<thumbnail>http://www.tvthrong.co.uk/files/u1520/ITV2_Logo.jpg</thumbnail>
-</item>
-
-<item>
-<title>iTV 3</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.84:3001</link>
-<thumbnail>http://www.samistream.com/thumbs/itv3.jpg</thumbnail>
-</item>
-
-<item>
-<title>iTV 4</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.81:3001</link>
-<thumbnail>http://i1.cdnds.net/10/04/logo_itv4_0.jpg</thumbnail>
-</item>
-
-<item>
-<title>More 4</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.141:3001</link>
-<thumbnail>http://www.designweek.co.uk/Pictures/web/m/n/l/more__468.jpg</thumbnail>
-</item>
-
-<item>
-<title>Sky 2</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.136:3001</link>
-<thumbnail>http://www.sky.com/shop/export/sites/www.sky.com/ireland/__ROIImages/ROI_TV/entertainment-packs/variety/carousel/logocarousel/Sky2_Feb_2011_354x200.jpg_1420335228.jpg</thumbnail>
-</item>
-
-<item>
-<title>TV3 Dublin</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.91:3001</link>
-<thumbnail>http://www.astra2.org/wp-content/uploads/2014/01/tv3.jpg</thumbnail>
 </item>
