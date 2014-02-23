@@ -46,7 +46,7 @@
 <item>
 <title>(((((((((( KIDS EDUTAINMENT ))))))))))</title>
 <link>http://</link>
-<thumbnail></thumbnail>
+<thumbnail>http://previewcf.turbosquid.com/Preview/Content_2010_09_10__10_42_25/6.jpg263ca5ac-f021-4a11-baea-52110bc59c2dLarger.jpg</thumbnail>
 
 <item>
 <title>Cartoon Network</title>
@@ -61,7 +61,7 @@
  <item>
 <title>(((((((((( MOVIE BOXOFFICE ))))))))))</title>
 <link>http://</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.233prime.com/wp-content/uploads/2013/06/popcorn.jpg</thumbnail>
 
 <item>
 <title>HBO</title>
@@ -81,7 +81,7 @@
 <item>
 <title>(((((((((( DOCUMENTARY ))))))))))</title>
 <link>http://</link>
-<thumbnail></thumbnail>
+<thumbnail>http://www.marshalsoft.net/wpimages/wp1af13871_05_06.jpg</thumbnail>
 
 <item>
 <title>Animal Planet</title>
@@ -89,39 +89,9 @@
 <thumbnail>http://danspapers.com/wp-content/uploads/2012/02/ANIMAL-PLANET.jpg</thumbnail>
 
 <item>
-<title>Animal Planet Romania (English)</title>
-<link>rtsp://178.21.120.198:1936/live3/animalplanet_low</link>
-<thumbnail>http://danspapers.com/wp-content/uploads/2012/02/ANIMAL-PLANET.jpg</thumbnail>
-</item>
-
-<item>
 <title>Discovery Channel</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
 <thumbnail>http://img.somosblackberry.com/wp-content/uploads/2013/07/Sin-t%C3%ADtulo3.jpg</thumbnail>
-
-<item>
-<title>Discovery Channel Romania (English)</title>
-<link>rtsp://178.21.120.198:1936/live3/discovery_low</link>
-<thumbnail>http://img.somosblackberry.com/wp-content/uploads/2013/07/Sin-t%C3%ADtulo3.jpg</thumbnail>
-</item>
-
-<item>
-<title>Investigation Discovery Romania (English)</title>
-<link>rtsp://178.21.120.198:1936/live3/discoveryinvestigations_low</link>
-<thumbnail>http://moodyncheeky.files.wordpress.com/2010/08/839502_big_1249374816.jpg</thumbnail>
-</item>
-
-<item>
-<title>Discovery Science Romania (English)</title>
-<link>rtsp://178.21.120.198:1936/live3/discoveryscience_low</link>
-<thumbnail>http://img269.imageshack.us/img269/245/discoverysciencelogocop.gif</thumbnail>
-</item>
-
-<item>
-<title>Discovery World Romania (English)</title>
-<link>rtsp://178.21.120.198:1936/live3/discoveryworld_low</link>
-<thumbnail>http://www.tvsa.co.za/blogimages/news_discovery_world_large.jpg</thumbnail>
-</item>
 
 <item>
 <title>National Geographic</title>
