@@ -1,7 +1,7 @@
 
 
 <item>
-<title>Awan Station Bookmarks - Update 1st March 2014</title>
+<title>Awan Station Bookmarks - Update 23rd Feb 2014</title>
 <link>http://</link>
 
 <item>
@@ -52,13 +52,6 @@
 <title>Cartoon Network</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv031&amp;q=high</link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png</thumbnail>
-
-<item>
-<title>Cartoon Network US</title>
-<link>http://d1vfuy3zwrxiut.cloudfront.net/live/_definst_/sweetbcha1novD28_W_250.sdp/manifest.m3u8</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png</thumbnail>
-</item> 
-
  
 <item>
 <title>Disney Channel</title>
@@ -100,6 +93,24 @@
 <link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
 <thumbnail>http://img.somosblackberry.com/wp-content/uploads/2013/07/Sin-t%C3%ADtulo3.jpg</thumbnail>
 
+<item>
+<title>National Geographic</title>
+<link>http://212.250.46.44:8085/udp/239.100.0.127:3001</link>
+<thumbnail>http://media.10news.com/photo/2012/10/27/national_geographic_logo_1351375624184_318407_ver1.0_320_240.jpg</thumbnail>
+</item>
+
+<item>
+<title>National Geo Wild</title>
+<link>http://212.250.46.44:8085/udp/239.100.0.128:3001</link>
+<thumbnail>http://www.africa-media.org/wp-content/uploads/2012/09/national_geographic_logo27k-e1348604054901.jpg</thumbnail>
+</item>
+
+<item>
+<title>History</title>
+<link>http://212.250.46.44:8085/udp/239.100.0.129:3001</link>
+<thumbnail>http://www.jenniferboylan.net/wp-content/uploads/2009/12/HistoryChannelLogo.gif</thumbnail>
+</item>
+
  
 <item>
 <title>(((((((((( TV SHOW ))))))))))</title>
@@ -134,45 +145,27 @@
 <thumbnail>http://warwicksport.warwick.ac.uk/pageassets/clubs/sports.jpg</thumbnail>
 
 <item>
+<title>Astro Supersport 2</title>
+<link>rtmp://27.254.84.3:1935/live/uiciyd.stream</link>
+<thumbnail>http://1.bp.blogspot.com/_Qg6J04XZhR4/SwSWVYbJbSI/AAAAAAAAKaU/tWlyGSLweWo/s400/supersport2_rev.jpg</thumbnail>
+</item>
+
+<item>
+<title>Astro Supersport 3</title>
+<link>rtmp://27.254.84.3:1935/live/47c85d.stream</link>
+<thumbnail>http://www.tvded.com/main/wp-content/uploads/2014/02/astro-supersport-3-logo-channel.png</thumbnail>
+</item>
+
+<item>
 <title>BT Sport 1</title>
-<link>http://188.0.226.139:1935/live/hqbt1/stV39.m3u8</link>
+<link>http://212.250.46.44:8085/udp/239.100.0.227:3001</link>
 <thumbnail>http://images4.wikia.nocookie.net/logopedia/images/thumb/6/68/BT_Sport_1_(pre-launch).svg/500px-BT_Sport_1_(pre-launch).svg.png</thumbnail>
 </item>
 
 <item>
 <title>BT Sport 2</title>
-<link>http://188.0.226.139:1935/live/hqbt2/stV39.m3u8</link>
+<link>http://212.250.46.44:8085/udp/239.100.0.228:3001</link>
 <thumbnail>http://images2.wikia.nocookie.net/logopedia/images/thumb/2/2c/BT_Sport_2_(pre-launch).svg/500px-BT_Sport_2_(pre-launch).svg.png</thumbnail>
-</item>
-
-<item>
-<title>C-more extreme</title>
-<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208148/cmextreme/cmextreme.m3u8</link>
-<thumbnail>http://www.fightplay.tv/wp-content/uploads/2014/01/fightplay-c_more_logo.png</thumbnail>
-</item>
-
-<item>
-<title>C-more Hockey</title>
-<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208149/cmhockey/cmhockey.m3u8</link>
-<thumbnail>http://www.fightplay.tv/wp-content/uploads/2014/01/fightplay-c_more_logo.png</thumbnail>
-</item>
-
-<item>
-<title>C-more Sport</title>
-<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208145/cmsporthd/cmsporthd.m3u8</link>
-<thumbnail>http://www.fightplay.tv/wp-content/uploads/2014/01/fightplay-c_more_logo.png</thumbnail>
-</item>
-
-<item>
-<title>C-more Live</title>
-<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208150/cmlivehd/cmlivehd.m3u8</link>
-<thumbnail>http://www.fightplay.tv/wp-content/uploads/2014/01/fightplay-c_more_logo.png</thumbnail>
-</item>
-
-<item>
-<title>C-more football</title>
-<link>http://cmorehlsedc-i.akamaihd.net/hls/live/208154/cmfotboll/cmfotboll.m3u8</link>
-<thumbnail>http://www.fightplay.tv/wp-content/uploads/2014/01/fightplay-c_more_logo.png</thumbnail>
 </item>
 
 <item>
@@ -205,33 +198,39 @@
 </item>
 
 <item>
-<title>Redbull TV</title>
-<link>http://live.iphone.redbull.de.edgesuite.net/iphone.m3u8</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>Sky sport 1</title>
-<link>rtmp://37.220.36.69:443/liverepeater playpath=23697 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=23697&width=700&height=500 live=true timeout=10 token=#atd%#$ZH</link>
+<link>http://212.250.46.44:8085/udp/239.100.0.111:3001</link>
 <thumbnail>http://4.bp.blogspot.com/-f7wXAT-kkE0/Tt4cKnXtZJI/AAAAAAAAA3M/cwTbXOR4iso/s400/sky_sports1.png</thumbnail>
 </item> 
 
 <item>
 <title>Sky sport 2</title>
-<link>rtmp://37.220.34.18:443/liverepeater playpath=33698 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=33698&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</link>
+<link>http://212.250.46.44:8085/udp/239.100.0.135:3001</link>
 <thumbnail>http://4.bp.blogspot.com/-F4OA5aX1MaA/TrF4yna-9KI/AAAAAAAAAw8/zzKwjCoAV6A/s400/Sky_Sports_2_2010.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky sport 3</title>
-<link>rtmp://37.220.36.18:443/liverepeater playpath=23699 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23699&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</link>
+<link>http://212.250.46.44:8085/udp/239.100.0.142:3001</link>
 <thumbnail>http://3.bp.blogspot.com/-amnWu-3Nh-E/T5wOyAscakI/AAAAAAAAAgE/a4Ip3ZPGSyU/s1600/sky_sport_3.jpg</thumbnail>
 </item>
 
 <item>
 <title>Sky sport 4</title>
-<link>rtmp://37.220.32.50:443/liverepeater playpath=23700 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/atdedead.swf pageUrl=http://filotv.pw/player6.php?id=23700&width=640&height=460 live=true timeout=10 token=#atd%#$ZH</link>
+<link>http://212.250.46.44:8085/udp/239.100.0.144:3001</link>
 <thumbnail>http://1.bp.blogspot.com/-CXRm7MHnAnc/T-k-ccdoSrI/AAAAAAAAASg/v3vVe_deZ9k/s1600/Letotv-skysport4.jpeg</thumbnail>
+</item>
+
+<item>
+<title>Sky sport F1</title>
+<link>http://212.250.46.44:8085/udp/239.100.0.143:3001</link>
+<thumbnail>http://helpforum.sky.com/t5/image/serverpage/image-id/8313i4DCB4C4C8272C563/image-size/medium?v=mpbl-1&px=-1</thumbnail>
+</item>
+
+<item>
+<title>Sky sport News</title>
+<link>http://212.250.46.44:8085/udp/239.100.0.145:3001</link>
+<thumbnail>http://www.powerboatgp.co.uk/image.php?image=/media/Sky-Sports-Logo.jpg&width=650</thumbnail>
 </item>
 
 <item>
