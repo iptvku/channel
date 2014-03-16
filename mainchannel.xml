@@ -176,12 +176,6 @@
 </item>
 
 <item>
-<title>Eurosport</title>
-<link>http://212.250.46.44:8085/udp/239.100.0.117:3001</link>
-<thumbnail>http://www.leedstrinity.ac.uk/departments/cfj/ug/news/publishingimages/eurosport%20better.jpg</thumbnail>
-</item>
-
-<item>
 <title>ESPN</title>
 <link>rtmp://46.246.29.159:1935/stream playpath=546yrgv.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php live=1</link>
 <thumbnail>http://www.bbeinc.com/bbe_site/profile/images/client_logos/espn.jpg</thumbnail>
