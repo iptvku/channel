@@ -1,7 +1,7 @@
 
 
 <item>
-<title>Awan Station Bookmarks - Update 16th March 2014</title> 
+<title>Awan Station Bookmarks - Update 12th April 2014</title> 
 <link>http://</link>
 
 <item>
@@ -59,11 +59,22 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/220px-Cartoon_Network_2010_logo.svg.png</thumbnail>
 </item> 
 
- 
 <item>
 <title>Disney Channel</title>
-<link>http://m3.megafun.vn/live.vs?c=vstv032&amp;q=high</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/15/DisneyChannel2010.png</thumbnail>
+<link>http://202.75.23.36:8800/live/ch43/01.m3u8</link>
+<thumbnail>http://www.blackyouthproject.com/files/2011/04/nickelodeon.png</thumbnail>
+ 
+<item>
+<title>CARTOONITO</title>
+<link>http://202.75.23.36:8800/live/ch49/01.m3u8</link>
+<thumbnail>http://www.sites4kids.co.uk/images/cartoonito.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY KIDS</title>
+<link>http://202.75.23.35:8800/live/ch36/01.m3u8</link>
+<thumbnail>http://i1.ytimg.com/vi/kKfmXFDW8Go/hqdefault.jpg</thumbnail>
+</item>
  
  <item>
 <title>(((((((((( MOVIE BOXOFFICE ))))))))))</title>
@@ -85,21 +96,99 @@
 <link>http://m24.megafun.vn/live.vs?c=vstv038&amp;q=high</link>
 <thumbnail>http://static2.wikia.nocookie.net/__cb20110928222637/logopedia/images/5/5a/Star_Movies.png</thumbnail>
  
+ <item>
+<title>MGM</title>
+<link>http://202.75.23.35:8800/live/ch40/01.m3u8</link>
+<thumbnail>http://diariocorreo.pe/documents/10165/0/image_content_medium_45259359_20140124132224.jpg</thumbnail>
+</item>
+ 
 <item>
 <title>(((((((((( DOCUMENTARY ))))))))))</title>
 <link>http://</link>
 <thumbnail>http://www.marshalsoft.net/wpimages/wp1af13871_05_06.jpg</thumbnail>
 
 <item>
-<title>Animal Planet</title>
+<title>Animal Planet - Vietnam</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv078&amp;q=high</link>
 <thumbnail>http://danspapers.com/wp-content/uploads/2012/02/ANIMAL-PLANET.jpg</thumbnail>
+
+<item>
+<title>ANIMAL PLANET - Indonesia</title>
+<link>http://202.75.23.34:8800/live/ch31/01.m3u8</link>
+<thumbnail>http://m.cdn.blog.hu/ma/marketintelligence/image/animal_planet_fan.png</thumbnail>
+</item>
 
 <item>
 <title>Discovery Channel</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv044&amp;q=high</link>
 <thumbnail>http://img.somosblackberry.com/wp-content/uploads/2013/07/Sin-t%C3%ADtulo3.jpg</thumbnail>
 
+<item>
+<title>HISTORY</title>
+<link>http://202.75.23.36:8800/live/ch45/01.m3u8</link>
+<thumbnail>http://vacationinbelize.files.wordpress.com/2010/08/history-id.jpg?w=460&h=340</thumbnail>
+</item>
+
+<item>
+<title>BIO</title>
+<link>http://202.75.23.36:8800/live/ch46/01.m3u8</link>
+<thumbnail>http://theident.gallery/bio/2011/BIOHD-2011-ID-GREY-1-4.jpg</thumbnail>
+</item>
+
+<item>
+<title>CRIME AND INVESTIGATION</title>
+<link>http://202.75.23.36:8800/live/ch47/01.m3u8</link>
+<thumbnail>http://www.sjiassociates.com/images/work/caseStudy/crimeInvestigation/CaseStudy_CIHD_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>NAT GEO HD</title>
+<link>http://202.75.23.35:8800/live/ch38/01.m3u8</link>
+<thumbnail>http://i1.ytimg.com/sh/1gr27xaepCI/showposter.jpg?v=4f970472</thumbnail>
+</item>
+
+<item>
+<title>NAT GEO WILD</title>
+<link>http://202.75.23.35:8800/live/ch39/01.m3u8</link>
+<thumbnail>http://www.cambiarcontenidos.com.ar/imagenes/NAT-GEO-WILD-DIRECTV.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRAVEL CHANNEL</title>
+<link>http://202.75.23.35:8800/live/ch41/01.m3u8</link>
+<thumbnail>http://images.bwwstatic.com/tvnetworklogos/12BAA340-94F5-581B-0C97743BE5B77B30.jpg</thumbnail>
+
+<item>
+<title>DISCOVERY</title>
+<link>http://202.75.23.34:8800/live/ch29/01.m3u8</link>
+<thumbnail>https://lh5.googleusercontent.com/-mNtH7C4L9iY/Uw3-bfxW5-I/AAAAAAAAAqc/qwg4YAjMT3M/s399-no/NAA_PROFILE-DBUG.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY HD WORLD</title>
+<link>http://202.75.23.34:8800/live/ch30/01.m3u8</link>
+<thumbnail>http://cdn.realscreen.com/wp/wp-content/uploads/2011/07/discoveryworldhd.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY TURBO</title>
+<link>http://202.75.23.34:8800/live/ch32/01.m3u8</link>
+<thumbnail>http://www.colombopr.com.ar/wp-content/uploads/2012/05/Discovery-Turbo-logo.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY SCIENCE</title>
+<link>http://202.75.23.34:8800/live/ch33/01.m3u8</link>
+<thumbnail>http://m1.behance.net/rendition/modules/50061527/disp/b452b08a235b2930131f6d47cdd2547a.jpg</thumbnail>
+</item>
+
+<item>
+<title>DISCOVERY HOME AND HEALTH</title>
+<link>http://202.75.23.34:8800/live/ch34/01.m3u8</link>
+<thumbnail>http://theident.gallery/discoveryhomehealth/2008/DISCHH-2008-ID-1-4.jpg</thumbnail>
+</item>
+
+</item>
  
 <item>
 <title>(((((((((( TV SHOW ))))))))))</title>
@@ -110,6 +199,12 @@
 <title>AXN</title>
 <link>http://m24.megafun.vn/live.vs?c=vstv077&amp;q=high</link>
 <thumbnail>http://karaminholas.zip.net/images/AxN-CanaldeTv-sony-gringos.jpg</thumbnail>
+</item>
+
+<item>
+<title>LIFE TIME</title>
+<link>http://202.75.23.36:8800/live/ch48/01.m3u8</link>
+<thumbnail>http://www.mylifetimetv.ca/images/mylifetimetvlogoog.jpg</thumbnail>
 </item>
 
 <item>
@@ -240,16 +335,29 @@
 <thumbnail>http://www.entertainmentdoor.com.pk/images/channel_image/Star_Sport_tv.jpg</thumbnail>
 
 <item>
-<title>Viasat 3 Sport 1</title>
-<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e711_wcif.sdp/e711_wcif.sdp-mr2548k.m3u8</link>
-<thumbnail>http://www.dblux.dk/media/13195/tv3sport1_big.png</thumbnail>
+<title>BEIN SPORT 1</title>
+<link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-y4LDKtLbIL4/Uv_Ef5dp6yI/AAAAAAAAA8E/16LndNYXzLo/s1600/77277417_o_383901931.jpg</thumbnail>
 </item>
 
 <item>
-<title>Viasat 3 Sport 2</title>
-<link>http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e801_wcif.sdp/e801_wcif.sdp-mr2548k.m3u8</link>
-<thumbnail>http://static.timefor.tv/imgs/epg/logos/tv3sport2_big.png</thumbnail>
+<title>BEIN SPORT 2</title>
+<link>http://202.75.23.37:8800/live/ch19/01.m3u8</link>
+<thumbnail>http://s.om.net/om/image/article/illustration/xg/310/61951.jpg</thumbnail>
 </item>
+
+<item>
+<title>SPORT DE COMBART</title>
+<link>http://202.75.23.37:8800/live/ch20/01.m3u8</link>
+<thumbnail>http://www.generalarmystore.fr/gas/images/products_pictures/grande/Sports%20de%20combats%20-%20Preparation%20physique%20(684).jpg</thumbnail>
+</item>
+
+<item>
+<title>EUROSPORT</title>
+<link>http://202.75.23.37:8800/live/ch21/01.m3u8</link>
+<thumbnail>http://www.leedstrinity.ac.uk/departments/cfj/ug/news/publishingimages/eurosport%20better.jpg</thumbnail>
+</item>
+
 
 
 <item>
