@@ -12,18 +12,18 @@
 <thumbnail></thumbnail>
 
 <item>
-<title>Last Update: 14th March 2014</title>
+<title>Last Update: 12th June 2014</title>
 <link>http://</link>
 <thumbnail></thumbnail>
 
 <item>
 <title> 1. TV1 RTM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch001/playlist.m3u8</link>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_mobile/playlist.m3u8</link>
 <thumbnail>http://mystream.rtm.gov.my/images/tv1rtm.png</thumbnail>
 
 <item>
 <title> 2. TV2 RTM</title>
-<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch003/playlist.m3u8</link>
+<link>http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_mobile/playlist.m3u8</link>
 <thumbnail>http://mystream.rtm.gov.my/images/tv2rtm.png</thumbnail>
 
 <item>
