@@ -9,21 +9,24 @@
 <link>http://</link>
 
 <item>
-<title>(((((((((( ISLAM CHANNEL ))))))))))</title>
-<link>rtmp://</link>
-<thumbnail>https://lh4.googleusercontent.com/-i8Ju5GCD0xo/UtuyqhrSfpI/AAAAAAAAAGM/XXSxYPzX56Q/s288/0c28b1b8.jpg</thumbnail>
-
-<item>
 <title>Test</title>
 <link>http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_pt.m3u8 </link>
 <thumbnail>http://paintorthread.com/wp-content/uploads/2011/04/phillips-tv-test-pattern-card-1.png</thumbnail>
 </item>
 
 <item>
-<title>Test</title>
+<title>Test2</title>
 <link>rtmp://edge2.everyon.tv/etv2sb/ playpath=pld1025 swfUrl=http://www.widih.org/swf/jwplayer.flash.swf pageUrl=http://www.widih.org/watchtv/4622/%EC%84%B1%EA%B3%B5%ED%9A%8C%EB%8C%80%ED%95%99%EA%B5%90-%EC%A0%84%EA%B5%AD-%EC%B2%AD%EC%86%8C%EB%85%84-%EC%98%81%EC%83%81%EC%A0%9C-korean-drama</link>
 <thumbnail>http://paintorthread.com/wp-content/uploads/2011/04/phillips-tv-test-pattern-card-1.png</thumbnail>
 </item>
+
+<item>
+<title>(((((((((( ISLAM CHANNEL ))))))))))</title>
+<link>rtmp://</link>
+<thumbnail>https://lh4.googleusercontent.com/-i8Ju5GCD0xo/UtuyqhrSfpI/AAAAAAAAAGM/XXSxYPzX56Q/s288/0c28b1b8.jpg</thumbnail>
+</item>
+
+
 
 <item>
 <title>Mecca Live</title>
