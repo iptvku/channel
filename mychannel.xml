@@ -18,7 +18,7 @@
 
 <item>
 <title> 1. TV1 RTM</title>
-<link>http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_mobile/playlist.m3u8</link>
+<link>http://rtm-player.glueapi.io/f/10149</link>
 <thumbnail>http://mystream.rtm.gov.my/images/tv1rtm.png</thumbnail>
 
 <item>
