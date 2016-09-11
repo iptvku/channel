@@ -9,6 +9,12 @@
 <link>http://</link>
 
 <item>
+<title>Test</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_pt.m3u8</link>
+<thumbnail>http://paintorthread.com/wp-content/uploads/2011/04/phillips-tv-test-pattern-card-1.png</thumbnail>
+</item>
+
+<item>
 <title>(((((((((( ISLAM CHANNEL ))))))))))</title>
 <link>rtmp://</link>
 <thumbnail>https://lh4.googleusercontent.com/-i8Ju5GCD0xo/UtuyqhrSfpI/AAAAAAAAAGM/XXSxYPzX56Q/s288/0c28b1b8.jpg</thumbnail>
@@ -589,3 +595,6 @@
 <link>rtmp://202.137.11.52/jakarta/offair.sdp</link>
 <thumbnail>http://promo.kompas.tv/newlive/pic/live.jpg</thumbnail>
 </item>
+
+
+
