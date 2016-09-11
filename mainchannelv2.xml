@@ -2,3 +2,8 @@
 <title>Animal Planet</title>
 <link>http://80.80.160.168/live/1/live.m3u8</link>
 <thumbnail>https://lh3.googleusercontent.com/-vS6DVqONf4A/V1GnDEkyMbI/AAAAAAAAB4E/TelSg0mRlV860y-wvO0oT8jNKMWs0F3QA/w744-h744/161664_TheVetLife_YoutubeAvatar.jpg</thumbnail>
+
+<item>
+<title>Discovery Channel</title>
+<link>http://149.255.152.110/discovery/index.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/-9swW14alzl0/AAAAAAAAAAI/AAAAAAAAE04/Ts10D_WvAA0/s0-c-k-no-ns/photo.jpg</thumbnail>
