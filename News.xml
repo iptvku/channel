@@ -1,1 +1,38 @@
+<item>
+<title>CNN</title>
+<link>http://149.255.152.110/cnn/index.m3u8</link>
+<thumbnail>http://www.userlogos.org/files/logos/tl/cnnblack.png</thumbnail>
 
+<item>
+<title>BBC Two</title>
+<link>http://nimlive2.giniko.com/bbctwo/bbctwo.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE2IDEwOjI5OjE1IEFNJmhhc2hfdmFsdWU9VlhSSU8xNFhYdlZUdjRSYkFpcER5UT09JnZhbGlkbWludXRlcz0xNDQw</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>BBC World</title>
+<link>http://nimlive1.giniko.com/bbcworldnews/bbcworld/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE2IDEwOjI2OjAwIEFNJmhhc2hfdmFsdWU9UUN0ZWp3MnZzVzc3dFZ4SlYrc09aQT09JnZhbGlkbWludXRlcz0xNDQw
+</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>RT News US</title>
+<link>http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index800.m3u8</link>
+<thumbnail></thumbnail>
+
+<item>
+<title>Al Jazeera News Live</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1YnlX4CkPDY</link>
+<thumbnail>http://logok.org/wp-content/uploads/2014/04/Aljazeera-logo-English-1024x768.png/thumbnail>
+</item>
+
+<item>
+<title>SkyNews Live</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y60wDzZt8yg</link>
+<thumbnail>http://somurl.jpg</thumbnail>
+</item>
+
+<item>
+<title>DW News</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gNosnzCaS4I</link>
+<thumbnail>http://somurl.jpg</thumbnail>
+</item>
