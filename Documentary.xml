@@ -1,11 +1,11 @@
 <item>
 <title>National Geographic</title>
-<link>http://163.172.150.10:8081/live/natgeo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE2IDEyOjAwOjQzIEFNJmhhc2hfdmFsdWU9aEhOWjJXeEd3a1hQSlpQeE1RMTA3UT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjI2LjE0MyZzdHJtX2xlbj0xNA==</link>
+<link>http://163.172.165.95:8081/live/natgeo-hq/playlist.m3u8</link>
 <thumbnail>http://dotcom-media.nationalgeographic.com/static-media/homepage/images/twitter_natgeo.jpg</thumbnail>
 
 <item>
 <title>History</title>
-<link>http://163.172.150.10:8081/live/history-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE2IDEyOjAzOjQ2IEFNJmhhc2hfdmFsdWU9WFhqSFBpRHJyVXVlNXBCTGRpakQxUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjI2LjE0MyZzdHJtX2xlbj0xNQ==</link>
+<link>http://163.172.165.95:8081/live/history-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNi8yMDE2IDEwOjUzOjAwIEFNJmhhc2hfdmFsdWU9c2thSUpSUW5ad0M4YWdyTXdGUFh6dz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjI2LjE0MyZzdHJtX2xlbj0xNQ==</link>
 <thumbnail></thumbnail>
 
 <item>
@@ -31,7 +31,7 @@
 
 <item>
 <title>Animal Channel</title>
-<link>http://163.172.150.10:8081/live/animalplanet-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDE2IDEyOjA0OjU5IEFNJmhhc2hfdmFsdWU9MHpqYnpmVmgxNWtmdWRWdjNVOGxzUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjI2LjE0MyZzdHJtX2xlbj0yMA==</link>
+<link>http://fluvod1.giniko.com/all-animal/all-animal/index.m3u8?token=63733b57edef5100c64298c0ddf4166386400</link>
 <thumbnail></thumbnail>
 
 <item>
