@@ -36,3 +36,15 @@
 <link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gNosnzCaS4I</link>
 <thumbnail>http://somurl.jpg</thumbnail>
 </item>
+
+<item>
+<title>CCTV News</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wuzZYzSoEEU</link>
+<thumbnail>http://somurl.jpg</thumbnail>
+</item>
+
+<item>
+<title>France 24 News</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gq11un3xqsA</link>
+<thumbnail>http://somurl.jpg</thumbnail>
+</item>
