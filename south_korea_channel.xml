@@ -1,4 +1,16 @@
 <item>
+<title>Arirang</title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YyiwBOOGvj0</link>
+<thumbnail>http://www.mhznetworks.org/sites/default/files/styles/695x350_series/public/arirang_series_1.png</thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xxxxxxxxxxxxxxxxx</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>01. YTN Science</title>
 <link>http://wshdl.load.cdn.zhanqi.tv/zqlive/1285_Zloy4.flv</link>
 <thumbnail>https://lh3.googleusercontent.com/-c6eX-156UadfwgTc8S6aUj8bnnniJ1PvtM9qnepbq-CJsiOtRWDBVHs_dH-aLT0lKrU=w300</thumbnail>
