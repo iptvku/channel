@@ -1,4 +1,9 @@
 <item>
+<title>ABC News</title>
+<link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+<thumbnail>https://yt3.ggpht.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAAAA/Yt468AF7XKE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+
+<item>
 <title>CNN</title>
 <link>http://149.255.152.110/cnn/index.m3u8</link>
 <thumbnail>http://www.userlogos.org/files/logos/tl/cnnblack.png</thumbnail>
